@@ -7,7 +7,7 @@ StackLink PNU is a web platform that helps Computer Science students at Princess
 > CS 388T – Agile Software Development · Section 7C6 · Group 1
 > Built with Scrum over two sprints (Sprint 1: 07/10 – 20/10/2026 · Sprint 2: 22/10 – 04/11/2026)
 
-🔗 **Live demo:** https://YOUR-USERNAME.github.io/StackLink-PNU/
+🔗 **Live demo:** https://FajerAlanazi.github.io/StackLink-PNU/
 
 ---
 
